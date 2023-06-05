@@ -9,5 +9,5 @@
 <h1 align="center">Skills</h1>
 
   <div align="center">
-  ![Skills](https://skillicons.dev/icons?i=py,html,js,bash,php,laravel,mysql,linux,c,cpp,cs,dart,arduino,raspberrypi,flutter,django,git&theme=dark&perline=20)
+  ![Skills] (https://skillicons.dev/icons?i=py,html,js,bash,php,laravel,mysql,linux,c,cpp,cs,dart,arduino,raspberrypi,flutter,django,git&theme=dark&perline=20)
   </div>
