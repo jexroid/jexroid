@@ -7,6 +7,6 @@
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jexroid)
 <br>
 <h1 align="center">Skills</h1>
-<div align="center">
-  ![Skills](https://skillicons.dev/icons?i=go,py,js,bash,regex,postgres,mysql,sqlite,linux,github,git,postman&theme=dark&perline=20](https://skillicons.dev/icons?i=py,html,js,bash,php,laravel,mysql,linux,c,cpp,cs,dart,arduino,raspberrypi,flutter,django,git&theme=dark&perline=20)
-</div>
+  <div align="center">
+  ![Skills](https://skillicons.dev/icons?i=py,html,js,bash,php,laravel,mysql,linux,c,cpp,cs,dart,arduino,raspberrypi,flutter,django,git&theme=dark&perline=20)
+  </div>
