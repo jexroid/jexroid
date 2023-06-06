@@ -12,7 +12,7 @@
 
 <div align="center">
   
-  ![Skills](https://skillicons.dev/icons?i=py,html,js,bash,php,laravel,mysql,linux,c,cpp,cs,dart,arduino,raspberrypi,flutter,django,git&theme=dark&perline=20)
+  ![Skills](https://skillicons.dev/icons?i=py,html,js,jquery,bash,vscode,php,markdown,vim,c,cpp,cs,qt,laravel,mysql,linux,dart,arduino,raspberrypi,flutter,django,git,replit,stackoverflow,selenium,wordpress,cloudflare,tauri&theme=dark&perline=7)
   
 </div>
 <br>
