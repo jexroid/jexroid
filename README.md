@@ -16,7 +16,7 @@
 <div align="center">
   
   ![Skills](https://skillicons.dev/icons?i=py,html,js,jquery,bash,vscode,php,markdown,vim,c,cpp,cs,docker,laravel,mysql,linux,dart,arduino,raspberrypi,flutter,django,git,replit,stackoverflow,selenium,wordpress,cloudflare,tauri&theme=dark&perline=7)
-<!--   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jexroid&layout=donut) -->
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jexroid&layout=donut)
 
   ![GitHub Streak](https://streak-stats.demolab.com/?user=jexroid)
   
