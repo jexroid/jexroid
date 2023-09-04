@@ -8,9 +8,18 @@
   
   so it's going to be a long journey!
 
+  
+
 </div>
 
 <br>
+
+<h1 align="center">STATUS</h1>
+<div align="center">
+
+  [![Discord Presence](https://lanyard.cnrad.dev/api/778307030837755995)](https://discord.com/users/778307030837755995)
+  
+</div>
 
 <h1 align="center">Skills</h1>
 <div align="center">
@@ -19,6 +28,7 @@
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jexroid&layout=donut)
 
   ![GitHub Streak](https://streak-stats.demolab.com/?user=jexroid)
+  
   
 </div>
 <br>
