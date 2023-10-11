@@ -4,9 +4,7 @@
 <br>
 <div align="center">
   
-  My journey to IT started in my old childhood when I was around 5 years old My parents bought me a lot of electronic stuff, such as a phone, toy cars, and playstation2.my entertainment was opening them and understanding how they are working. this curiosity led me to the Hacking and technology world, I learned about electronics, networks, web applications, android, Windows, Linux, and half of the popular programming languages syntax such as PHP, Python, C#, C++, Dart, Javascript, etc...I love this world more than anything in my life because I can say this is what I have been made for, that's what make me feel alive. Whenever I'm behind my PC I feel peace and happiness in myself. I have an extreme hunger for learning about anything in IT! This is my goal right now, to learn and learn and learn till I find something necessary in this IT world and invent that, just at that moment I can feel relaxed and calm for the rest of my life.
-  
-  so it's going to be a long journey!
+I have acquired knowledge in different areas of IT, including electronics, networks, web applications, Android, Windows, Linux, and various programming languages such as PHP, Python, C#, C++, Dart, and Javascript. I am passionate about this field and consider it my true calling in life. When I am working on my computer, I feel a sense of peace and fulfillment. I have a strong desire to keep learning and expanding my knowledge in all aspects of IT. My ultimate goal is to identify a crucial need in the IT world and invent a solution for it. Only then will I be able to feel content and satisfied for the rest of my life.
 
   
 
