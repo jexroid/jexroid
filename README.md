@@ -20,7 +20,7 @@ I have acquired knowledge in different areas of IT, including electronics, netwo
 <h1 align="center">Skills</h1>
 <div align="center">
   
-  ![Skills](https://skillicons.dev/icons?i=py,html,js,rust,bash,vscode,php,markdown,vim,c,cpp,cs,docker,laravel,mysql,linux,dart,arduino,raspberrypi,flutter,django,git,replit,stackoverflow,selenium,wordpress,cloudflare,electron&theme=dark&perline=7)
+  ![Skills](https://skillicons.dev/icons?i=py,html,js,ts,bash,vscode,php,markdown,vim,nest,nodejs,express,docker,laravel,mongodb,linux,cpp,arduino,raspberrypi,vue,nuxt,stackoverflow,selenium,django,git,wordpress,cloudflare,electron&theme=dark&perline=7)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jexroid&layout=donut)
 
   ![GitHub Streak](https://streak-stats.demolab.com/?user=jexroid)
