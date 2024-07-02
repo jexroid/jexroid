@@ -27,15 +27,21 @@ I have acquired knowledge in different areas of IT, including electronics, netwo
   
   
 </div>
-<br>
+<be>
 
 <h1 align="center">Contacting info</h1>
 <div align="center">
   
   
 [![Discord](https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/58yRbQNSKK) [![Instagram](https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/jexroid) [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jexroid) [![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jexroid) [![Telegram](https://img.shields.io/badge/jexroid-blue?style=for-the-badge&logo=telegram)](https://t.me/jexroid) [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jexroid)
-  
 
+<br>
+  
+<div align="center">
+  
+  ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=border&theme=dark&border=true&quote=An%20idiot%20admires%20complexity%20a%20genius%20admires%20simplicity&author=Terry%20Davis)
+  
+</div>
   
 <!-- ![lg](https://github-readme-stats.vercel.app/api?username=jexroid) --!>
 
