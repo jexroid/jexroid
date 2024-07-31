@@ -6,7 +6,7 @@
   
 I have acquired knowledge in different areas of IT, including electronics, networks, web applications, Android, Windows, Linux, and various programming languages such as PHP, Python, C#, C++, Dart, and Javascript. I am passionate about this field and consider it my true calling in life. When I am working on my computer, I feel a sense of peace and fulfillment. I have a strong desire to keep learning and expanding my knowledge in all aspects of IT. My ultimate goal is to identify a crucial need in the IT world and invent a solution for it. Only then will I be able to feel content and satisfied for the rest of my life.
 
-  
+
 
 </div>
 
@@ -20,8 +20,8 @@ I have acquired knowledge in different areas of IT, including electronics, netwo
 <h1 align="center">Skills</h1>
 <div align="center">
   
-  ![Skills](https://skillicons.dev/icons?i=py,html,js,ts,bash,postgres,php,tailwind,vim,nest,nodejs,express,docker,laravel,mongodb,linux,cpp,arduino,raspberrypi,react,next,stackoverflow,selenium,django,git,wordpress,cloudflare,electron&theme=dark&perline=7)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jexroid&layout=donut)
+  ![Skills](https://skillicons.dev/icons?i=py,html,js,ts,bash,postgres,php,tailwind,nest,nodejs,express,laravel,mongodb,linux,cpp,arduino,raspberrypi,react,next,stackoverflow,electron&theme=dark&perline=7)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jexroid&layout=compact)
 
   ![GitHub Streak](https://streak-stats.demolab.com/?user=jexroid)
   
